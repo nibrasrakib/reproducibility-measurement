@@ -2,6 +2,12 @@
 
 A short description of the project.
 
+# Steps to install environment
+
+1. Install Quarto CLI System wide (<https://quarto.org/docs/get-started/>)
+2. Restore the environment dependencies from **requirements.txt** file
+    * pip install -r ./requirements.txt
+
 ## Project Organization
 
 ```
